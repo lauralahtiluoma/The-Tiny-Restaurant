@@ -9,6 +9,13 @@ h1 {
 	font-size: 68px;
 }
 
+h3 {
+	font-family: 'Yanone Kaffeesatz';
+	color: #FFFFFF;
+	font-size: 174px;
+	line-height: 0.9;
+}
+
 #text-area {
 	margin-top: 4em;
 }
@@ -19,16 +26,47 @@ button {
 	color: #FFFFFF;
 	padding-left: 1em;
 	padding-right: 1em;
+	margin-bottom: 15px;
+	margin-top: 20px;
 }
 
 h2 {
 	font-family: 'Yanone Kaffeesatz';
 	font-weight: bold;
 	color: #FFFFFF;
-	font-size: 23px;
+	font-size: 33px;
 }
 
 p {
 	font-size: 17px;
 	
 }
+
+#images {
+	width: 100%;
+	margin-top: 100px;
+	position: relative;
+}
+
+.smallimage{
+	height: 70%;
+	position: absolute;
+	right: 46%;
+	z-index: 2;
+	top: 50%;
+	transform: translateY(-50%);
+	
+}
+
+#story {
+	margin-top: 50px;
+}
+
+.storytext {
+	margin: auto;
+}
+
+#bigimage {
+	text-align: right;
+}
+
