@@ -1,0 +1,34 @@
+body {
+	background-color: #DBA77C;
+}
+
+h1 {
+	font-family: 'Yanone Kaffeesatz';
+	font-weight: bold;
+	color: #243B3B;
+	font-size: 68px;
+}
+
+#text-area {
+	margin-top: 4em;
+}
+
+button {
+	background-color: #243B3B;
+	font-weight: bold;
+	color: #FFFFFF;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+h2 {
+	font-family: 'Yanone Kaffeesatz';
+	font-weight: bold;
+	color: #FFFFFF;
+	font-size: 23px;
+}
+
+p {
+	font-size: 17px;
+	
+}
